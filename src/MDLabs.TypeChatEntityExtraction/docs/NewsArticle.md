@@ -1,0 +1,3 @@
+﻿On June 15, 2023, Apple Inc. announced its latest product, the Vision Pro, at its headquarters in Cupertino, California.
+CEO Tim Cook described it as "the most advanced personal electronic device ever." The device, priced at $3,499, is set to hit the market in early 2024.
+Meanwhile, competitors like Meta Platforms Inc. and Microsoft Corporation are closely watching this development in the augmented reality space.
